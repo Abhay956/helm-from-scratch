@@ -1,1 +1,2 @@
-# muti-tier-with-helm
+# Helm from scratch
+
